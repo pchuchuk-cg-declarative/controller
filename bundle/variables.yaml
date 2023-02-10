@@ -1,0 +1,4 @@
+variables:
+- team: pchuchuk-cg-declarative
+- admin-user: chuprasa-admin
+- manager-user: chuprasa
